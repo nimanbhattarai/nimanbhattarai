@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently exploring DSA concepts .<br>🌱 I'm looking for some cool project ideas.<br>💬 Ask me about C; Ethical Hacking; programming/tech stuff.<br>📫 Reach me at nimanbhattarai1234@gmail.com.<br>😄 Pronouns: He/Him.<br>🤔 I’m looking for help with Open-source contributions.
+🔭 I’m currently exploring DSA concepts .<br>🌱 I'm looking for some cool project ideas.<br>💬 Ask me about C ; C++ ;JAVA ; Ethical Hacking ; Programming/Tech stuff.<br>📫 Reach me at nimanbhattarai1234@gmail.com.<br>😄 Pronouns: He/Him.<br>🤔 I’m looking for help with Open-source contributions.
 
 
 ## 🌐 Socials:
